@@ -1,4 +1,7 @@
-# TFM
+# TFM - Detection and tracking of sheep flocks from aerial images for learning the dynamic behavioral model
+
+Author: Cintia Valiente Bermejo
+Master in Robotics, Graphics and Computer Vision - ESCUELA DE INGENIERÍA Y ARQUITECTURA of Zaragoza
 
 It contains the video results of the different experiments performed with the different predictive models of movement, Long Short-Term Memory (LSTM) networks and Parameter Identification. The videos represent the comparison between the predicted positions and the ground truth positions.
 
