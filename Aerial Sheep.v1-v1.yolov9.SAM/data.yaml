@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['sheep']
+
+roboflow:
+  workspace: riis
+  project: aerial-sheep
+  version: 1
+  license: Public Domain
+  url: https://universe.roboflow.com/riis/aerial-sheep/dataset/1
